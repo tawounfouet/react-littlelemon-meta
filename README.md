@@ -1,4 +1,4 @@
-# My Capstone Project For The Meta Front-End Developer Professional Certificate
+# Meta Front-End Developer Professional Certificate
 
 
 ![home-page](home-page.png)
